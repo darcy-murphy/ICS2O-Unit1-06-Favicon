@@ -1,4 +1,3 @@
-
 .mdl-layout__header-row {
   align-items: center;
   justify-content: center;
@@ -12,7 +11,7 @@
 
 .mdl-ripple {
   background: #007;
-  opacity: 0.100;
+  opacity: 0.1;
 }
 
 body {
